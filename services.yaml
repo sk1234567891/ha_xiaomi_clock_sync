@@ -1,0 +1,11 @@
+sync_time:
+  name: Sync Time
+  description: Sync the time on one or more Xiaomi LYWSD02 clocks.
+  fields:
+    macs:
+      name: MAC Addresses
+      description: List of MAC addresses of the Xiaomi clocks.
+      required: true
+      example: '["A4:C1:38:XX:XX:XX", "3F:5B:XX:XX:XX:XX"]'
+      selector:
+        object:

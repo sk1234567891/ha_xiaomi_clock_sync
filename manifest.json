@@ -1,0 +1,10 @@
+{
+    "domain": "xiaomi_clock_sync",
+    "name": "Xiaomi Clock Time Sync",
+    "version": "1.0",
+    "documentation": "https://github.com/h4/lywsd02",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": ["bleak"]
+  }
+  
